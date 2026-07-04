@@ -1,0 +1,2 @@
+# OpenGL Maze Engine
+A lightweight 3D first-person maze game built using modern OpenGL for 3D graphics rendering and SFML as the backend utility layer for window management, context creation, and input handling. The project demonstrates core graphics programming concepts, including custom shader implementation, texture mapping, and ambient skybox rendering via HDRI. A lightweight, custom physics routine utilizes Axis-Aligned Bounding Box (AABB) collision detection to handle seamless player-to-wall interactions
