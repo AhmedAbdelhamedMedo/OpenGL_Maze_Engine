@@ -399,3 +399,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+Debug/*
+Release/*
+x64/*
+OpenGL_Project/*
+OpenGLSFML/*
